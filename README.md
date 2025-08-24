@@ -1,6 +1,6 @@
 <h1 align="center">🐉 Bimos6 / developer </h1>
 
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
@@ -27,7 +27,7 @@
   <img width="12" />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
@@ -44,7 +44,7 @@
   <img width="12" />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -55,8 +55,19 @@
   <img width="12" />
 </div>
 
-###
+<br><br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Bimos6&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github.r2v.ch/codewars?user=Bimos6&stroke=%23BB432C">
 </p>
+
+<br>
+
+
+## 👔 Experience
+| Position               | Company                     | Field                         | Work Period       |
+| ---------------------- | --------------------------- | ----------------------------- | ----------------- |
+| **backend-developer**         | **Citrus**                | **web development**       | **2025-03 — now** |
+
+
