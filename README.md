@@ -1,4 +1,3 @@
-<h1 align="center">🐉 Bimos6 / developer </h1>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -17,44 +16,45 @@
 
   <h3>👨‍💻 Programming Languages</h3>
   <p>
-    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   </p>
 
   <h3>💻 Code Editor</h3>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   </p>
 
   <h3>⛈️ Database</h3>
   <p>
-    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </p>
 
   <h3>🖼️ Framework</h3>
   <p>
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   </p>
 
   <h3>🛠 Tools & Platforms</h3>
   <p>
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"/>
-    <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
   </p>
 </div>
 
