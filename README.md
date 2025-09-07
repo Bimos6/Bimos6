@@ -63,8 +63,8 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimos6&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ivova4412.png">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bimos6&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru"><br>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5639876" style='border:none;'></iframe>
   <img src="https://github.r2v.ch/codewars?user=Bimos6&stroke=%23BB432C">
 </p>
 
