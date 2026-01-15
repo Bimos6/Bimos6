@@ -60,15 +60,6 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimos6&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-  <img src="https://github.r2v.ch/codewars?user=Bimos6&stroke=%23BB432C">
-</p>
-
-
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
