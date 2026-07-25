@@ -59,10 +59,11 @@
   </p>
 </div>
 
-
+<!--
 ## 👔 Experience
 | Position               | Company                     | Field                         | Work Period       |
 | ---------------------- | --------------------------- | ----------------------------- | ----------------- |
 | **junior backend-developer**         | **Citrus**                | **web development**       | **2025-03 — 2025-11** |
 
 
+-->
